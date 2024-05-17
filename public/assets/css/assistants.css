@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 100vh;
+}
+.container-form {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-group label {
+    margin-bottom: 0.5rem;
+    color: #495057;
+}
+.form-control {
+    border-radius: 0.25rem;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 0.25rem;
+}
